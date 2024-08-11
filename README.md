@@ -11,5 +11,5 @@ Create a folder named "saved-video" such as:
 
 ```python record.py```
 
-### Ctrl C or q to stop
+```Press Ctrl C or q to stop```
 
