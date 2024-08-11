@@ -6,6 +6,8 @@ Create a folder named "saved-video" such as:
 </div>
 
 ## How to run
+
 ```cd src```
+
 ```python record.py```
 
